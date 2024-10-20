@@ -1,0 +1,5 @@
+requests
+m3u8
+gmp
+pycryptodome
+ffmpeg-python
